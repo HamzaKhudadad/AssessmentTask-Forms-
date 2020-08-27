@@ -29,6 +29,6 @@ Task includes Creation of server Fetching data from db through server and Presen
 
 
 ## :arrow_forward: How to Run App
-You can run npm run dev to start both servers concurrently
+You can run _**npm run dev**_ to start both servers concurrently
 
 
